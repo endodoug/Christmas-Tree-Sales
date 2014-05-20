@@ -7,4 +7,6 @@ infographic created with Edge Animate
 
 Still needed:
 
-Complete the pie chart and supporting content
+1. Complete the pie chart and supporting content
+2. Add interactive buttons 
+3. Animate 
