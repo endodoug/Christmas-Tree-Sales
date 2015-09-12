@@ -1,9 +1,44 @@
 Christmas-Tree-Sales
 ====================
 
-infographic created with Edge Animate
+Animated infographic created with Edge Animate
 
-[View Infographic](http://endodoug.github.io/Christmas-Tree-Sales)
+[View Animated Infographic](http://endodoug.github.io/Christmas-Tree-Sales)
+
+#### Screenshot
+![Screenshot software](https://github.com/endodoug/Christmas-Tree-Sales/blob/master/images/Poster.png "screenshot software")
+
+## Download
+* [Version 1.0](https://github.com/endodoug/Christmas-Tree-Sales/archive/master.zip)
+
+## Usage
+```$ git clone https://github.com/endodoug/Christmas-Tree-Sales
+...```
+
+## Contributors
+
+### Contributors on GitHub
+* [Contributors](https://github.com/endodoug/Christmas-Tree-Sales/graphs/contributors)
+
+### Third party libraries
+* see [LIBRARIES](https://github.com/endodoug/Christmas-Tree-Sales/blob/master/edge_includes) files
+
+## License 
+* see [LICENSE](https://github.com/endodoug/Christmas-Tree-Sales/blob/master/LICENSE.md) file
+
+## Version 
+* Version 1.0
+
+## How-to use this code
+* see Adobe Edge Animate Documentation
+
+## Contact
+#### Doug Harper
+* Homepage: [Doug-Harper.com](http://doug-harper.com)
+* e-mail: [email Doug](endodoug@gmail.com)
+* Twitter: [@endodoug](https://twitter.com/endodoug "endodoug on twitter")
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/endodoug/Christmas-Tree-Sales&title=sw-name&language=&tags=github&category=software) 
 
 Still needed:
 
