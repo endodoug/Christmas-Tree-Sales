@@ -38,7 +38,7 @@ Animated infographic created with Edge Animate
 * e-mail: [email Doug](endodoug@gmail.com)
 * Twitter: [@endodoug](https://twitter.com/endodoug "endodoug on twitter")
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/endodoug/Christmas-Tree-Sales&title=sw-name&language=&tags=github&category=software) 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=endodoug&url=https://github.com/endodoug/Christmas-Tree-Sales&title=Christmas-Tree-Sales&language=&tags=github&category=software) 
 
 Still needed:
 
