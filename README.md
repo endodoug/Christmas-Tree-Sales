@@ -34,7 +34,7 @@ Animated infographic created with Edge Animate
 
 ## Contact
 #### Doug Harper
-* Homepage: [Doug-Harper.com](http://doug-harper.com)
+* Homepage: [Doug-Harper.com](http://endodoug.github.io)
 * e-mail: [email Doug](endodoug@gmail.com)
 * Twitter: [@endodoug](https://twitter.com/endodoug "endodoug on twitter")
 
